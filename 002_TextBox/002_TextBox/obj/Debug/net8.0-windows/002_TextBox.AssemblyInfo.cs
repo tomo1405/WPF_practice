@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("002_TextBox")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b03ed96ffb4a3a4360a0d958c400164db4af0c9e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb5dfb2c14daa7ca01964aac14b8f4c3eda2ed21")]
 [assembly: System.Reflection.AssemblyProductAttribute("002_TextBox")]
 [assembly: System.Reflection.AssemblyTitleAttribute("002_TextBox")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
