@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Owner\\Desktop\\MyApp\\WPF\\002_TextBox\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CAE02AE-D62E-40E5-AE3A-A821C2D21811}|002_TextBox\\002_TextBox.csproj|c:\\users\\owner\\desktop\\myapp\\wpf\\002_textbox\\002_textbox\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CAE02AE-D62E-40E5-AE3A-A821C2D21811}|002_TextBox\\002_TextBox.csproj|solutionrelative:002_textbox\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CAE02AE-D62E-40E5-AE3A-A821C2D21811}|002_TextBox\\002_TextBox.csproj|c:\\users\\owner\\desktop\\myapp\\wpf\\002_textbox\\002_textbox\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7CAE02AE-D62E-40E5-AE3A-A821C2D21811}|002_TextBox\\002_TextBox.csproj|solutionrelative:002_textbox\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\MyApp\\WPF\\002_TextBox\\002_TextBox\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "002_TextBox\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\MyApp\\WPF\\002_TextBox\\002_TextBox\\MainWindow.xaml",
+              "RelativeToolTip": "002_TextBox\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-03T16:05:48.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Owner\\Desktop\\MyApp\\WPF\\002_TextBox\\002_TextBox\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "002_TextBox\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Owner\\Desktop\\MyApp\\WPF\\002_TextBox\\002_TextBox\\MainWindow.xaml.cs",
+              "RelativeToolTip": "002_TextBox\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAQwBkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T16:05:45.064Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
