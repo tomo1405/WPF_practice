@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "wCwjl/CGMB0=",
+  "dgSpecHash": "jZ5cBrH8/HE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Owner\\Desktop\\MyApp\\WPF\\004_NumberGuess\\004_NumberGuess\\004_NumberGuess.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\wata\\Desktop\\WPF\\004_NumberGuess\\004_NumberGuess\\004_NumberGuess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wata\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.31\\microsoft.windowsdesktop.app.ref.8.0.31.nupkg.sha512",
+    "C:\\Users\\wata\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.31\\microsoft.netcore.app.ref.8.0.31.nupkg.sha512",
+    "C:\\Users\\wata\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.31\\microsoft.aspnetcore.app.ref.8.0.31.nupkg.sha512",
+    "C:\\Users\\wata\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.31\\microsoft.netcore.app.host.win-x64.8.0.31.nupkg.sha512"
+  ],
   "logs": []
 }

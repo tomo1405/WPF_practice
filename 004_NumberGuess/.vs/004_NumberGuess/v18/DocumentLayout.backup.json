@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wata\\Desktop\\WPF\\004_NumberGuess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9490576-918E-4618-8640-CC52499C710E}|004_NumberGuess\\004_NumberGuess.csproj|c:\\users\\wata\\desktop\\wpf\\004_numberguess\\004_numberguess\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9490576-918E-4618-8640-CC52499C710E}|004_NumberGuess\\004_NumberGuess.csproj|solutionrelative:004_numberguess\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9490576-918E-4618-8640-CC52499C710E}|004_NumberGuess\\004_NumberGuess.csproj|c:\\users\\wata\\desktop\\wpf\\004_numberguess\\004_numberguess\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A9490576-918E-4618-8640-CC52499C710E}|004_NumberGuess\\004_NumberGuess.csproj|solutionrelative:004_numberguess\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\wata\\Desktop\\WPF\\004_NumberGuess\\004_NumberGuess\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "004_NumberGuess\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\wata\\Desktop\\WPF\\004_NumberGuess\\004_NumberGuess\\MainWindow.xaml",
+              "RelativeToolTip": "004_NumberGuess\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-04T05:35:57.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\wata\\Desktop\\WPF\\004_NumberGuess\\004_NumberGuess\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "004_NumberGuess\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\wata\\Desktop\\WPF\\004_NumberGuess\\004_NumberGuess\\MainWindow.xaml.cs",
+              "RelativeToolTip": "004_NumberGuess\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAuwB0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T05:35:57.863Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
